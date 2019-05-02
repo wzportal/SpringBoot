@@ -1,0 +1,7 @@
+<html>
+<body>
+<div style="background-color:blue;">
+hello, ${data.name}
+</div>
+</body>
+</html>
